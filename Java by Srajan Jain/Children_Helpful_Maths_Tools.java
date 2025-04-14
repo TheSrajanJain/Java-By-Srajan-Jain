@@ -1,5 +1,5 @@
-import java.util.Scanner;
-import net.objecthunter.exp4j.Expression;
+import java.util.Scanner;  
+import net.objecthunter.exp4j.Expression;  // Download exp4j-0.4.8.jar and add that file to IntelliJ --> File > Project Structure > Libraries > Add...
 import net.objecthunter.exp4j.ExpressionBuilder;
 
 public class Children_Helpful_Code {
