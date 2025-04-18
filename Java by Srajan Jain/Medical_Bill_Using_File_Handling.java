@@ -10,6 +10,7 @@ public class Medical_Bill_Using_File_Handling {
     static int billNumber;
     static void getCustomerDetails() {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("-------------- Registration --------------");
         System.out.print("Enter your Name: ");
         customerName = scanner.nextLine();
         System.out.print("Enter your Address: ");
