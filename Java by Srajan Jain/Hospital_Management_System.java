@@ -275,6 +275,7 @@ public class Hospital_Management_System {
                 case 3: selectMedicines(); break;
                 case 4: Ward_Select(); break;
                 case 5: Appointment_Service_Setter(); break;
+                case 6: Service(); break;
                 case 0: System.out.println("Exiting Program... Thank you!"); break;
                 default: System.out.println("Invalid choice! Please select again.");
             }
