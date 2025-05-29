@@ -97,7 +97,7 @@ This repository is licensed under the [MIT License](LICENSE).
 For queries or collaboration:
 
 * GitHub: [TheSrajanJain](https://github.com/TheSrajanJain)
-* Email: [your.email@example.com](mailto:your.email@example.com) (replace with your actual email)
+* Email: [your.email@example.com](mailto:thesrajanjain@gmail.com) (replace with your actual email)
 
 ---
 
